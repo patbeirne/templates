@@ -13,3 +13,5 @@ type: DIN Relay
 standard: global
 ---
 Remove DIN rail part, two screws under side to easy open, [TYWE3S](https://tasmota.github.io/docs/Pinouts/#tywe3s) chip inside.
+
+2021-11-12 Recent parts have [PSF-B01](https://tasmota.github.io/docs/Pinouts/#psf-b85psf-b01psf-b04) inside.
